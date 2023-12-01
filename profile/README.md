@@ -1,6 +1,8 @@
 ## Cryologger
 
-Welcome to the Cryologger GitHub page.
+Welcome to the Cryologger GitHub repository.
+
+The Cryologger project is focused on the development of low-cost, open-source technology designed for cryospheric research applications. 
 
 <!--
 
