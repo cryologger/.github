@@ -4,6 +4,7 @@ Welcome to the Cryologger GitHub repository.
 
 The Cryologger project is focused on the development of low-cost, open-source technology designed for cryospheric research applications. 
 
+For questions or additional information please contact [Adam Garbo](https://cryologger.org/contact/).
 <!--
 
 **Here are some ideas to get you started:**
